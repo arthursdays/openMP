@@ -1,0 +1,54 @@
+ITR EQUALS TO 16 threads takes 2.406169 seconds to process, result is 3.141593
+6 threads takes 28.804350 seconds to process, result is 3.141593
+6 threads takes 2.370000 seconds to process, result is 3.141593
+6 threads takes 2.377199 seconds to process, result is 3.141593
+6 threads takes 22.679999 seconds to process, result is 3.141593
+6 threads takes 2.302490 seconds to process, result is 3.141593
+ITR EQUALS TO 106 threads takes 2.362016 seconds to process, result is 3.141593
+6 threads takes 3.539568 seconds to process, result is 3.141593
+6 threads takes 2.312756 seconds to process, result is 3.141593
+6 threads takes 2.651180 seconds to process, result is 3.141593
+6 threads takes 3.137698 seconds to process, result is 3.141593
+6 threads takes 2.309040 seconds to process, result is 3.141593
+ITR EQUALS TO 1006 threads takes 2.444095 seconds to process, result is 3.141593
+6 threads takes 2.353722 seconds to process, result is 3.141593
+6 threads takes 2.294298 seconds to process, result is 3.141593
+6 threads takes 2.416367 seconds to process, result is 3.141593
+6 threads takes 2.352630 seconds to process, result is 3.141593
+6 threads takes 2.300583 seconds to process, result is 3.141593
+ITR EQUALS TO 10006 threads takes 2.340611 seconds to process, result is 3.141593
+6 threads takes 2.311662 seconds to process, result is 3.141593
+6 threads takes 2.316480 seconds to process, result is 3.141593
+6 threads takes 2.370820 seconds to process, result is 3.141593
+6 threads takes 2.305194 seconds to process, result is 3.141593
+6 threads takes 2.329654 seconds to process, result is 3.141593
+ITR EQUALS TO 100006 threads takes 2.342074 seconds to process, result is 3.141593
+6 threads takes 2.306770 seconds to process, result is 3.141593
+6 threads takes 2.300080 seconds to process, result is 3.141593
+6 threads takes 2.351549 seconds to process, result is 3.141593
+6 threads takes 2.300359 seconds to process, result is 3.141593
+6 threads takes 2.328584 seconds to process, result is 3.141593
+ITR EQUALS TO 1000006 threads takes 2.335112 seconds to process, result is 3.141593
+6 threads takes 2.305475 seconds to process, result is 3.141593
+6 threads takes 2.307275 seconds to process, result is 3.141593
+6 threads takes 2.361471 seconds to process, result is 3.141593
+6 threads takes 2.447203 seconds to process, result is 3.141593
+6 threads takes 2.359722 seconds to process, result is 3.141593
+ITR EQUALS TO 10000006 threads takes 2.345165 seconds to process, result is 3.141593
+6 threads takes 2.324389 seconds to process, result is 3.141593
+6 threads takes 2.472173 seconds to process, result is 3.141593
+6 threads takes 2.441991 seconds to process, result is 3.141593
+6 threads takes 2.304939 seconds to process, result is 3.141593
+6 threads takes 2.293163 seconds to process, result is 3.141593
+ITR EQUALS TO 100000006 threads takes 2.453569 seconds to process, result is 3.141593
+6 threads takes 2.355263 seconds to process, result is 3.141593
+6 threads takes 2.340763 seconds to process, result is 3.141593
+6 threads takes 2.399000 seconds to process, result is 3.141593
+6 threads takes 2.357314 seconds to process, result is 3.141593
+6 threads takes 2.340106 seconds to process, result is 3.141593
+ITR EQUALS TO 1000000006 threads takes 2.792228 seconds to process, result is 3.141593
+6 threads takes 2.758622 seconds to process, result is 3.141593
+6 threads takes 2.786654 seconds to process, result is 3.141593
+6 threads takes 2.790145 seconds to process, result is 3.141593
+6 threads takes 2.764657 seconds to process, result is 3.141593
+6 threads takes 2.755030 seconds to process, result is 3.141593

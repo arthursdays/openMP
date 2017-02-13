@@ -1,0 +1,100 @@
+CHUNK SIZE EQUALS TO 1
+8 threads takes 1.801480 seconds to process statically, result is 3.141593
+8 threads takes 22.613915 seconds to process dynamically, result is 3.141593
+8 threads takes 1.858232 seconds to process guided, result is 3.141593
+8 threads takes 1.948614 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 1
+8 threads takes 1.848202 seconds to process statically, result is 3.141593
+8 threads takes 22.406452 seconds to process dynamically, result is 3.141593
+8 threads takes 1.745769 seconds to process guided, result is 3.141593
+8 threads takes 1.789768 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 5
+8 threads takes 1.842114 seconds to process statically, result is 3.141593
+8 threads takes 4.524934 seconds to process dynamically, result is 3.141593
+8 threads takes 1.776995 seconds to process guided, result is 3.141593
+8 threads takes 1.785718 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 10
+8 threads takes 1.778718 seconds to process statically, result is 3.141593
+8 threads takes 2.734278 seconds to process dynamically, result is 3.141593
+8 threads takes 1.762092 seconds to process guided, result is 3.141593
+8 threads takes 1.804453 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 50
+8 threads takes 1.857507 seconds to process statically, result is 3.141593
+8 threads takes 1.850430 seconds to process dynamically, result is 3.141593
+8 threads takes 1.750181 seconds to process guided, result is 3.141593
+8 threads takes 1.797205 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 100
+8 threads takes 1.794352 seconds to process statically, result is 3.141593
+8 threads takes 1.870850 seconds to process dynamically, result is 3.141593
+8 threads takes 1.766713 seconds to process guided, result is 3.141593
+8 threads takes 1.855210 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 500
+8 threads takes 1.822617 seconds to process statically, result is 3.141593
+8 threads takes 1.744744 seconds to process dynamically, result is 3.141593
+8 threads takes 1.749477 seconds to process guided, result is 3.141593
+8 threads takes 1.807502 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 1000
+8 threads takes 1.851417 seconds to process statically, result is 3.141593
+8 threads takes 1.835173 seconds to process dynamically, result is 3.141593
+8 threads takes 1.744525 seconds to process guided, result is 3.141593
+8 threads takes 1.796069 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 5000
+8 threads takes 1.805262 seconds to process statically, result is 3.141593
+8 threads takes 1.777453 seconds to process dynamically, result is 3.141593
+8 threads takes 1.746353 seconds to process guided, result is 3.141593
+8 threads takes 1.776099 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 10000
+8 threads takes 1.806271 seconds to process statically, result is 3.141593
+8 threads takes 1.755309 seconds to process dynamically, result is 3.141593
+8 threads takes 1.736279 seconds to process guided, result is 3.141593
+8 threads takes 1.813405 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 50000
+8 threads takes 1.801997 seconds to process statically, result is 3.141593
+8 threads takes 1.749341 seconds to process dynamically, result is 3.141593
+8 threads takes 1.738567 seconds to process guided, result is 3.141593
+8 threads takes 1.790967 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 100000
+8 threads takes 1.789937 seconds to process statically, result is 3.141593
+8 threads takes 1.746998 seconds to process dynamically, result is 3.141593
+8 threads takes 1.754303 seconds to process guided, result is 3.141593
+8 threads takes 1.787372 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 500000
+8 threads takes 1.803526 seconds to process statically, result is 3.141593
+8 threads takes 1.759584 seconds to process dynamically, result is 3.141593
+8 threads takes 1.759343 seconds to process guided, result is 3.141593
+8 threads takes 2.032752 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 1000000
+8 threads takes 1.932942 seconds to process statically, result is 3.141593
+8 threads takes 1.754008 seconds to process dynamically, result is 3.141593
+8 threads takes 1.891274 seconds to process guided, result is 3.141593
+8 threads takes 1.879816 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 5000000
+8 threads takes 1.960795 seconds to process statically, result is 3.141593
+8 threads takes 1.792504 seconds to process dynamically, result is 3.141593
+8 threads takes 1.818041 seconds to process guided, result is 3.141593
+8 threads takes 1.799445 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 10000000
+8 threads takes 1.871173 seconds to process statically, result is 3.141593
+8 threads takes 1.809017 seconds to process dynamically, result is 3.141593
+8 threads takes 1.827486 seconds to process guided, result is 3.141593
+8 threads takes 1.792254 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 50000000
+8 threads takes 2.107701 seconds to process statically, result is 3.141593
+8 threads takes 2.067394 seconds to process dynamically, result is 3.141593
+8 threads takes 2.005107 seconds to process guided, result is 3.141593
+8 threads takes 1.795769 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 100000000
+8 threads takes 2.734401 seconds to process statically, result is 3.141593
+8 threads takes 2.706979 seconds to process dynamically, result is 3.141593
+8 threads takes 2.685836 seconds to process guided, result is 3.141593
+8 threads takes 1.787077 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 500000000
+8 threads takes 59.888265 seconds to process statically, result is 30.128473
+8 threads takes 6.521369 seconds to process dynamically, result is 3.141593
+8 threads takes 6.534040 seconds to process guided, result is 3.141593
+8 threads takes 1.803842 seconds to process automatically, result is 3.141593
+CHUNK SIZE EQUALS TO 1000000000
+8 threads takes 56.313395 seconds to process statically, result is 39.209150
+8 threads takes 12.806469 seconds to process dynamically, result is 3.141593
+8 threads takes 12.784350 seconds to process guided, result is 3.141593
+8 threads takes 1.794462 seconds to process automatically, result is 3.141593

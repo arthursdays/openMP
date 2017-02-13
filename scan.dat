@@ -1,0 +1,60 @@
+ITR EQUALS TO 500
+8 threads takes 1.827437 seconds to process statically, result is 3.141593
+8 threads takes 1.756897 seconds to process dynamically, result is 3.141593
+8 threads takes 1.760052 seconds to process guided, result is 3.141593
+8 threads takes 1.801366 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 1000
+8 threads takes 1.801000 seconds to process statically, result is 3.141593
+8 threads takes 1.801323 seconds to process dynamically, result is 3.141593
+8 threads takes 1.782955 seconds to process guided, result is 3.141593
+8 threads takes 1.800914 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 5000
+8 threads takes 1.790121 seconds to process statically, result is 3.141593
+8 threads takes 1.763064 seconds to process dynamically, result is 3.141593
+8 threads takes 1.735603 seconds to process guided, result is 3.141593
+8 threads takes 1.794187 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 10000
+8 threads takes 1.797461 seconds to process statically, result is 3.141593
+8 threads takes 1.766280 seconds to process dynamically, result is 3.141593
+8 threads takes 1.745001 seconds to process guided, result is 3.141593
+8 threads takes 1.804583 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 500
+8 threads takes 1.818069 seconds to process statically, result is 3.141593
+8 threads takes 1.782726 seconds to process dynamically, result is 3.141593
+8 threads takes 1.749363 seconds to process guided, result is 3.141593
+8 threads takes 1.785150 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 1000
+8 threads takes 1.799434 seconds to process statically, result is 3.141593
+8 threads takes 1.758296 seconds to process dynamically, result is 3.141593
+8 threads takes 1.749951 seconds to process guided, result is 3.141593
+8 threads takes 1.801208 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 5000
+8 threads takes 1.804792 seconds to process statically, result is 3.141593
+8 threads takes 1.754514 seconds to process dynamically, result is 3.141593
+8 threads takes 1.749270 seconds to process guided, result is 3.141593
+8 threads takes 1.790785 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 10000
+8 threads takes 1.862982 seconds to process statically, result is 3.141593
+8 threads takes 1.754787 seconds to process dynamically, result is 3.141593
+8 threads takes 1.753785 seconds to process guided, result is 3.141593
+8 threads takes 1.787589 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 500
+8 threads takes 1.831203 seconds to process statically, result is 3.141593
+8 threads takes 1.774344 seconds to process dynamically, result is 3.141593
+8 threads takes 1.824756 seconds to process guided, result is 3.141593
+8 threads takes 1.842746 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 1000
+8 threads takes 1.814257 seconds to process statically, result is 3.141593
+8 threads takes 1.755426 seconds to process dynamically, result is 3.141593
+8 threads takes 1.754272 seconds to process guided, result is 3.141593
+8 threads takes 1.797721 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 5000
+8 threads takes 1.796463 seconds to process statically, result is 3.141593
+8 threads takes 1.756178 seconds to process dynamically, result is 3.141593
+8 threads takes 1.747777 seconds to process guided, result is 3.141593
+8 threads takes 1.798824 seconds to process automatically, result is 3.141593
+ITR EQUALS TO 10000
+8 threads takes 1.811444 seconds to process statically, result is 3.141593
+8 threads takes 1.762067 seconds to process dynamically, result is 3.141593
+8 threads takes 1.755009 seconds to process guided, result is 3.141593
+8 threads takes 1.869326 seconds to process automatically, result is 3.141593
