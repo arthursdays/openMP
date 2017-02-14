@@ -8,7 +8,7 @@
   It will be easy to examine the 
   integration since the result
   it suppose to be PI.
-  */
+ */
 #include<stdlib.h>
 #include<stdio.h>
 #include<omp.h>	
@@ -28,22 +28,26 @@ int main()
 	//	wiomp();
 	int cnt = 0;
 	while(cnt < 3){
-		for(itr = 1000; itr <= 50000; itr *= 10)
+		for(itr = 100; itr <= 10000000; itr *= 10)
 		{
-			if(itr != 1)itr /= 2;
-			printf("ITR EQUALS TO %d\n", itr);
-			wisomp();
-			wisomp1();
-			wisomp2();
-			wisomp3();
-			if(itr != 1)itr *= 2;
-			printf("ITR EQUALS TO %d\n", itr);
-			wisomp();
-			wisomp1();
-			wisomp2();
-			wisomp3();
+			int tm = 0;
+			while(tm < 2){
+				if(itr != 1)itr /= 2;
+				printf("ITR EQUALS TO %d\n", itr);
+				wisomp3();
+				wisomp2();
+				wisomp1();
+				wisomp();
+				if(itr != 1)itr *= 2;
+				printf("ITR EQUALS TO %d\n", itr);
+				wisomp3();
+				wisomp2();
+				wisomp1();
+				wisomp();
+				tm++;
+			}
+			cnt++;
 		}
-		cnt++;
 	}
 	return 0;
 

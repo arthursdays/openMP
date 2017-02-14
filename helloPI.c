@@ -12,7 +12,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<omp.h>	
-static double num_steps = 100000000;	//the number of rectangles divided
+static double num_steps = 1000000000;	//the number of rectangles divided
 double step, start, end;	//initialization of start and end time and setps
 int noomp();	//initialize the function, the same for next instruction
 int wiomp();	
